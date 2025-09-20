@@ -1,0 +1,174 @@
+{
+  "student_id": "40bd2d54-8fa3-4461-b159-3dd6595931dc",
+  "student_name": "Shashi Kamal",
+  "events": [
+    {
+      "id": "cfc58141-67a9-40e7-ab9d-cbd678774bdf",
+      "title": "CS301",
+      "start": "2024-09-19T16:00:00",
+      "end": "2024-09-19T17:00:00",
+      "extendedProps": {
+        "course_name": "Database Management",
+        "faculty": "Madhavi Kashyap",
+        "room": "LH-05",
+        "type": "theory"
+      }
+    },
+    {
+      "id": "362d7147-9e86-4700-ba1f-9ca0bd186ce8",
+      "title": "CS301",
+      "start": "2024-09-19T15:00:00",
+      "end": "2024-09-19T16:00:00",
+      "extendedProps": {
+        "course_name": "Database Management",
+        "faculty": "Madhavi Kashyap",
+        "room": "LH-05",
+        "type": "theory"
+      }
+    },
+    {
+      "id": "562468d3-e41f-4e99-b51d-11f2b5a4f08a",
+      "title": "CS301",
+      "start": "2024-09-16T10:00:00",
+      "end": "2024-09-16T11:00:00",
+      "extendedProps": {
+        "course_name": "Database Management",
+        "faculty": "Madhavi Kashyap",
+        "room": "LH-03",
+        "type": "theory"
+      }
+    },
+    {
+      "id": "6c3180a1-0f6f-4f88-bca4-a00d3ec137cc",
+      "title": "CS302",
+      "start": "2024-09-21T09:00:00",
+      "end": "2024-09-21T10:00:00",
+      "extendedProps": {
+        "course_name": "Computer Networks",
+        "faculty": "Rohan Tata",
+        "room": "LH-04",
+        "type": "theory"
+      }
+    },
+    {
+      "id": "9f798e41-d62c-4600-9e95-c8ca677932c5",
+      "title": "CS302",
+      "start": "2024-09-19T17:00:00",
+      "end": "2024-09-19T18:00:00",
+      "extendedProps": {
+        "course_name": "Computer Networks",
+        "faculty": "Rohan Tata",
+        "room": "LH-03",
+        "type": "theory"
+      }
+    },
+    {
+      "id": "9d8f64a7-d1cb-4fe3-9fb9-cc5db87c88a6",
+      "title": "CS303",
+      "start": "2024-09-17T17:00:00",
+      "end": "2024-09-17T18:00:00",
+      "extendedProps": {
+        "course_name": "Operating Systems",
+        "faculty": "Kalpit Ahluwalia",
+        "room": "LH-06",
+        "type": "theory"
+      }
+    },
+    {
+      "id": "15c6472a-9a51-47c3-94ad-440bc050b224",
+      "title": "CS303",
+      "start": "2024-09-20T10:00:00",
+      "end": "2024-09-20T11:00:00",
+      "extendedProps": {
+        "course_name": "Operating Systems",
+        "faculty": "Kalpit Ahluwalia",
+        "room": "LH-02",
+        "type": "theory"
+      }
+    },
+    {
+      "id": "9afa6919-1a27-473e-9365-d63036056b05",
+      "title": "CS303",
+      "start": "2024-09-16T17:00:00",
+      "end": "2024-09-16T18:00:00",
+      "extendedProps": {
+        "course_name": "Operating Systems",
+        "faculty": "Kalpit Ahluwalia",
+        "room": "LH-02",
+        "type": "theory"
+      }
+    },
+    {
+      "id": "393f0d5e-bd3e-4022-94a9-29a39b798f94",
+      "title": "CS304",
+      "start": "2024-09-18T10:00:00",
+      "end": "2024-09-18T11:00:00",
+      "extendedProps": {
+        "course_name": "Software Engineering",
+        "faculty": "Nimrat Natarajan",
+        "room": "LH-02",
+        "type": "theory"
+      }
+    },
+    {
+      "id": "4f6caf0c-ccf6-4e42-bc00-a80fef9841d6",
+      "title": "CS304",
+      "start": "2024-09-18T11:00:00",
+      "end": "2024-09-18T12:00:00",
+      "extendedProps": {
+        "course_name": "Software Engineering",
+        "faculty": "Nimrat Natarajan",
+        "room": "LH-03",
+        "type": "theory"
+      }
+    },
+    {
+      "id": "7b913827-d362-449f-ac5f-97ef81e136e1",
+      "title": "CS301L",
+      "start": "2024-09-20T13:00:00",
+      "end": "2024-09-20T14:00:00",
+      "extendedProps": {
+        "course_name": "Database Lab",
+        "faculty": "Anya Biswas",
+        "room": "CSE-LAB-1",
+        "type": "lab"
+      }
+    },
+    {
+      "id": "47b41279-83eb-469f-9989-b4dafeca83ea",
+      "title": "CS301L",
+      "start": "2024-09-21T13:00:00",
+      "end": "2024-09-21T14:00:00",
+      "extendedProps": {
+        "course_name": "Database Lab",
+        "faculty": "Anya Biswas",
+        "room": "CSE-LAB-3",
+        "type": "lab"
+      }
+    },
+    {
+      "id": "20efa998-723d-4fb5-bd85-7db7ca073aab",
+      "title": "CS303L",
+      "start": "2024-09-20T09:00:00",
+      "end": "2024-09-20T10:00:00",
+      "extendedProps": {
+        "course_name": "OS Lab",
+        "faculty": "Darika Varkey",
+        "room": "CSE-LAB-3",
+        "type": "lab"
+      }
+    },
+    {
+      "id": "be0ef780-7474-4b44-a62d-11c81db36ac4",
+      "title": "CS303L",
+      "start": "2024-09-21T10:00:00",
+      "end": "2024-09-21T11:00:00",
+      "extendedProps": {
+        "course_name": "OS Lab",
+        "faculty": "Darika Varkey",
+        "room": "CSE-LAB-3",
+        "type": "lab"
+      }
+    }
+  ]
+}

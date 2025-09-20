@@ -1,0 +1,20 @@
+{
+  "admin": {
+    "username": "admin@bitc.edu.in",
+    "password": "admin123",
+    "role": "admin",
+    "name": "System Administrator"
+  },
+  "faculty": {
+    "username": "cse.faculty1@bitc.edu.in",
+    "password": "faculty123",
+    "role": "faculty",
+    "name": "Jagat Gopal"
+  },
+  "student": {
+    "username": "student1@bitc.edu.in",
+    "password": "student123",
+    "role": "student",
+    "name": "Shashi Kamal"
+  }
+}

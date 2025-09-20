@@ -1,0 +1,1578 @@
+{
+  "total_sessions": 121,
+  "events": [
+    {
+      "id": "ec9e5300-33ec-4bc5-81bc-e86474f4a531",
+      "title": "MATH101 - LH-05",
+      "start": "2024-09-18T11:00:00",
+      "end": "2024-09-18T12:00:00",
+      "extendedProps": {
+        "course_name": "Engineering Mathematics I",
+        "faculty": "Ojas Ahuja",
+        "room": "LH-05",
+        "type": "theory",
+        "batch_ids": "187bc5d1-10f9-4a48-a3ca-2573725ceb3c,aaa340e2-20c6-4205-88a6-a535fcfcfcb0,b58160b9-f082-4821-ba13-6b64b0f10fc6,09b26c84-b2c1-45cf-8cba-a69cf72d7893,de5b0ccf-a595-44db-a23c-329f57e35e9f,91f8cf3b-adb3-4bb4-bab4-d76f5e5824de"
+      }
+    },
+    {
+      "id": "6df04119-4151-473b-b30f-cc5ad1d806e0",
+      "title": "MATH101 - LH-06",
+      "start": "2024-09-19T10:00:00",
+      "end": "2024-09-19T11:00:00",
+      "extendedProps": {
+        "course_name": "Engineering Mathematics I",
+        "faculty": "Ojas Ahuja",
+        "room": "LH-06",
+        "type": "theory",
+        "batch_ids": "187bc5d1-10f9-4a48-a3ca-2573725ceb3c,aaa340e2-20c6-4205-88a6-a535fcfcfcb0,b58160b9-f082-4821-ba13-6b64b0f10fc6,09b26c84-b2c1-45cf-8cba-a69cf72d7893,de5b0ccf-a595-44db-a23c-329f57e35e9f,91f8cf3b-adb3-4bb4-bab4-d76f5e5824de"
+      }
+    },
+    {
+      "id": "d9eb92e6-f78a-451e-9f59-ae4ac9ac3728",
+      "title": "MATH101 - LH-05",
+      "start": "2024-09-21T09:00:00",
+      "end": "2024-09-21T10:00:00",
+      "extendedProps": {
+        "course_name": "Engineering Mathematics I",
+        "faculty": "Ojas Ahuja",
+        "room": "LH-05",
+        "type": "theory",
+        "batch_ids": "187bc5d1-10f9-4a48-a3ca-2573725ceb3c,aaa340e2-20c6-4205-88a6-a535fcfcfcb0,b58160b9-f082-4821-ba13-6b64b0f10fc6,09b26c84-b2c1-45cf-8cba-a69cf72d7893,de5b0ccf-a595-44db-a23c-329f57e35e9f,91f8cf3b-adb3-4bb4-bab4-d76f5e5824de"
+      }
+    },
+    {
+      "id": "330a0742-c7ec-4a48-b555-8bff10028f92",
+      "title": "PHY101 - LH-05",
+      "start": "2024-09-18T09:00:00",
+      "end": "2024-09-18T10:00:00",
+      "extendedProps": {
+        "course_name": "Engineering Physics",
+        "faculty": "Ria Ramachandran",
+        "room": "LH-05",
+        "type": "theory",
+        "batch_ids": "187bc5d1-10f9-4a48-a3ca-2573725ceb3c,aaa340e2-20c6-4205-88a6-a535fcfcfcb0,b58160b9-f082-4821-ba13-6b64b0f10fc6,09b26c84-b2c1-45cf-8cba-a69cf72d7893,de5b0ccf-a595-44db-a23c-329f57e35e9f,91f8cf3b-adb3-4bb4-bab4-d76f5e5824de"
+      }
+    },
+    {
+      "id": "0b64096b-b17c-4417-b81b-e86896afb357",
+      "title": "PHY101 - LH-05",
+      "start": "2024-09-20T17:00:00",
+      "end": "2024-09-20T18:00:00",
+      "extendedProps": {
+        "course_name": "Engineering Physics",
+        "faculty": "Ria Ramachandran",
+        "room": "LH-05",
+        "type": "theory",
+        "batch_ids": "187bc5d1-10f9-4a48-a3ca-2573725ceb3c,aaa340e2-20c6-4205-88a6-a535fcfcfcb0,b58160b9-f082-4821-ba13-6b64b0f10fc6,09b26c84-b2c1-45cf-8cba-a69cf72d7893,de5b0ccf-a595-44db-a23c-329f57e35e9f,91f8cf3b-adb3-4bb4-bab4-d76f5e5824de"
+      }
+    },
+    {
+      "id": "34e20634-43d0-4881-b8ba-142c275bc935",
+      "title": "PHY101 - LH-04",
+      "start": "2024-09-20T08:00:00",
+      "end": "2024-09-20T09:00:00",
+      "extendedProps": {
+        "course_name": "Engineering Physics",
+        "faculty": "Ria Ramachandran",
+        "room": "LH-04",
+        "type": "theory",
+        "batch_ids": "187bc5d1-10f9-4a48-a3ca-2573725ceb3c,aaa340e2-20c6-4205-88a6-a535fcfcfcb0,b58160b9-f082-4821-ba13-6b64b0f10fc6,09b26c84-b2c1-45cf-8cba-a69cf72d7893,de5b0ccf-a595-44db-a23c-329f57e35e9f,91f8cf3b-adb3-4bb4-bab4-d76f5e5824de"
+      }
+    },
+    {
+      "id": "7e2f08e6-ff1b-4e04-956c-183fc2259fed",
+      "title": "CHEM101 - LH-06",
+      "start": "2024-09-19T08:00:00",
+      "end": "2024-09-19T09:00:00",
+      "extendedProps": {
+        "course_name": "Engineering Chemistry",
+        "faculty": "Pavani Guha",
+        "room": "LH-06",
+        "type": "theory",
+        "batch_ids": "187bc5d1-10f9-4a48-a3ca-2573725ceb3c,aaa340e2-20c6-4205-88a6-a535fcfcfcb0,b58160b9-f082-4821-ba13-6b64b0f10fc6,09b26c84-b2c1-45cf-8cba-a69cf72d7893,de5b0ccf-a595-44db-a23c-329f57e35e9f,91f8cf3b-adb3-4bb4-bab4-d76f5e5824de"
+      }
+    },
+    {
+      "id": "5fd0ab18-f440-47a4-bcc1-cafeeb636f27",
+      "title": "CHEM101 - LH-03",
+      "start": "2024-09-19T14:00:00",
+      "end": "2024-09-19T15:00:00",
+      "extendedProps": {
+        "course_name": "Engineering Chemistry",
+        "faculty": "Pavani Guha",
+        "room": "LH-03",
+        "type": "theory",
+        "batch_ids": "187bc5d1-10f9-4a48-a3ca-2573725ceb3c,aaa340e2-20c6-4205-88a6-a535fcfcfcb0,b58160b9-f082-4821-ba13-6b64b0f10fc6,09b26c84-b2c1-45cf-8cba-a69cf72d7893,de5b0ccf-a595-44db-a23c-329f57e35e9f,91f8cf3b-adb3-4bb4-bab4-d76f5e5824de"
+      }
+    },
+    {
+      "id": "c42adeed-dc18-44bf-bb67-49288ca987b1",
+      "title": "ENG101 - LH-03",
+      "start": "2024-09-21T08:00:00",
+      "end": "2024-09-21T09:00:00",
+      "extendedProps": {
+        "course_name": "Technical English",
+        "faculty": "Ria Memon",
+        "room": "LH-03",
+        "type": "theory",
+        "batch_ids": "187bc5d1-10f9-4a48-a3ca-2573725ceb3c,aaa340e2-20c6-4205-88a6-a535fcfcfcb0,b58160b9-f082-4821-ba13-6b64b0f10fc6,09b26c84-b2c1-45cf-8cba-a69cf72d7893,de5b0ccf-a595-44db-a23c-329f57e35e9f,91f8cf3b-adb3-4bb4-bab4-d76f5e5824de"
+      }
+    },
+    {
+      "id": "740b2963-4a19-41c0-b2f8-5aa05431b509",
+      "title": "ENG101 - LH-02",
+      "start": "2024-09-16T14:00:00",
+      "end": "2024-09-16T15:00:00",
+      "extendedProps": {
+        "course_name": "Technical English",
+        "faculty": "Ria Memon",
+        "room": "LH-02",
+        "type": "theory",
+        "batch_ids": "187bc5d1-10f9-4a48-a3ca-2573725ceb3c,aaa340e2-20c6-4205-88a6-a535fcfcfcb0,b58160b9-f082-4821-ba13-6b64b0f10fc6,09b26c84-b2c1-45cf-8cba-a69cf72d7893,de5b0ccf-a595-44db-a23c-329f57e35e9f,91f8cf3b-adb3-4bb4-bab4-d76f5e5824de"
+      }
+    },
+    {
+      "id": "4a7214b9-d077-4037-b7d8-4d606e0b93ce",
+      "title": "CS101 - LH-02",
+      "start": "2024-09-21T14:00:00",
+      "end": "2024-09-21T15:00:00",
+      "extendedProps": {
+        "course_name": "Programming Fundamentals",
+        "faculty": "Ojas Ahuja",
+        "room": "LH-02",
+        "type": "theory",
+        "batch_ids": "187bc5d1-10f9-4a48-a3ca-2573725ceb3c,aaa340e2-20c6-4205-88a6-a535fcfcfcb0,b58160b9-f082-4821-ba13-6b64b0f10fc6,09b26c84-b2c1-45cf-8cba-a69cf72d7893,de5b0ccf-a595-44db-a23c-329f57e35e9f,91f8cf3b-adb3-4bb4-bab4-d76f5e5824de"
+      }
+    },
+    {
+      "id": "ac92d826-2d93-4aa1-a695-3380ed9ca283",
+      "title": "CS101 - LH-06",
+      "start": "2024-09-18T10:00:00",
+      "end": "2024-09-18T11:00:00",
+      "extendedProps": {
+        "course_name": "Programming Fundamentals",
+        "faculty": "Ojas Ahuja",
+        "room": "LH-06",
+        "type": "theory",
+        "batch_ids": "187bc5d1-10f9-4a48-a3ca-2573725ceb3c,aaa340e2-20c6-4205-88a6-a535fcfcfcb0,b58160b9-f082-4821-ba13-6b64b0f10fc6,09b26c84-b2c1-45cf-8cba-a69cf72d7893,de5b0ccf-a595-44db-a23c-329f57e35e9f,91f8cf3b-adb3-4bb4-bab4-d76f5e5824de"
+      }
+    },
+    {
+      "id": "fccef9eb-8c6e-4e50-abe9-91791345c518",
+      "title": "PHY101L - CSE-LAB-3",
+      "start": "2024-09-19T16:00:00",
+      "end": "2024-09-19T17:00:00",
+      "extendedProps": {
+        "course_name": "Physics Lab",
+        "faculty": "Ria Ramachandran",
+        "room": "CSE-LAB-3",
+        "type": "lab",
+        "batch_ids": "187bc5d1-10f9-4a48-a3ca-2573725ceb3c,aaa340e2-20c6-4205-88a6-a535fcfcfcb0,b58160b9-f082-4821-ba13-6b64b0f10fc6,09b26c84-b2c1-45cf-8cba-a69cf72d7893,de5b0ccf-a595-44db-a23c-329f57e35e9f,91f8cf3b-adb3-4bb4-bab4-d76f5e5824de"
+      }
+    },
+    {
+      "id": "61fbb500-f85e-49d2-b152-a50928d2615c",
+      "title": "PHY101L - CSE-LAB-1",
+      "start": "2024-09-17T10:00:00",
+      "end": "2024-09-17T11:00:00",
+      "extendedProps": {
+        "course_name": "Physics Lab",
+        "faculty": "Ria Ramachandran",
+        "room": "CSE-LAB-1",
+        "type": "lab",
+        "batch_ids": "187bc5d1-10f9-4a48-a3ca-2573725ceb3c,aaa340e2-20c6-4205-88a6-a535fcfcfcb0,b58160b9-f082-4821-ba13-6b64b0f10fc6,09b26c84-b2c1-45cf-8cba-a69cf72d7893,de5b0ccf-a595-44db-a23c-329f57e35e9f,91f8cf3b-adb3-4bb4-bab4-d76f5e5824de"
+      }
+    },
+    {
+      "id": "b4eb1340-a331-442c-a47c-9ea11c7dc250",
+      "title": "CHEM101L - CSE-LAB-1",
+      "start": "2024-09-21T16:00:00",
+      "end": "2024-09-21T17:00:00",
+      "extendedProps": {
+        "course_name": "Chemistry Lab",
+        "faculty": "Pavani Guha",
+        "room": "CSE-LAB-1",
+        "type": "lab",
+        "batch_ids": "187bc5d1-10f9-4a48-a3ca-2573725ceb3c,aaa340e2-20c6-4205-88a6-a535fcfcfcb0,b58160b9-f082-4821-ba13-6b64b0f10fc6,09b26c84-b2c1-45cf-8cba-a69cf72d7893,de5b0ccf-a595-44db-a23c-329f57e35e9f,91f8cf3b-adb3-4bb4-bab4-d76f5e5824de"
+      }
+    },
+    {
+      "id": "df519bc8-781c-4a8a-8712-c050bb2a6606",
+      "title": "CHEM101L - CSE-LAB-2",
+      "start": "2024-09-17T08:00:00",
+      "end": "2024-09-17T09:00:00",
+      "extendedProps": {
+        "course_name": "Chemistry Lab",
+        "faculty": "Pavani Guha",
+        "room": "CSE-LAB-2",
+        "type": "lab",
+        "batch_ids": "187bc5d1-10f9-4a48-a3ca-2573725ceb3c,aaa340e2-20c6-4205-88a6-a535fcfcfcb0,b58160b9-f082-4821-ba13-6b64b0f10fc6,09b26c84-b2c1-45cf-8cba-a69cf72d7893,de5b0ccf-a595-44db-a23c-329f57e35e9f,91f8cf3b-adb3-4bb4-bab4-d76f5e5824de"
+      }
+    },
+    {
+      "id": "b388193b-a7e4-49ff-a60f-18e97093ba9d",
+      "title": "CS101L - CSE-LAB-2",
+      "start": "2024-09-18T17:00:00",
+      "end": "2024-09-18T18:00:00",
+      "extendedProps": {
+        "course_name": "Programming Lab",
+        "faculty": "Pavani Guha",
+        "room": "CSE-LAB-2",
+        "type": "lab",
+        "batch_ids": "187bc5d1-10f9-4a48-a3ca-2573725ceb3c,aaa340e2-20c6-4205-88a6-a535fcfcfcb0,b58160b9-f082-4821-ba13-6b64b0f10fc6,09b26c84-b2c1-45cf-8cba-a69cf72d7893,de5b0ccf-a595-44db-a23c-329f57e35e9f,91f8cf3b-adb3-4bb4-bab4-d76f5e5824de"
+      }
+    },
+    {
+      "id": "4a5caca4-7f81-4056-a447-a3360de02352",
+      "title": "CS101L - CSE-LAB-2",
+      "start": "2024-09-20T16:00:00",
+      "end": "2024-09-20T17:00:00",
+      "extendedProps": {
+        "course_name": "Programming Lab",
+        "faculty": "Pavani Guha",
+        "room": "CSE-LAB-2",
+        "type": "lab",
+        "batch_ids": "187bc5d1-10f9-4a48-a3ca-2573725ceb3c,aaa340e2-20c6-4205-88a6-a535fcfcfcb0,b58160b9-f082-4821-ba13-6b64b0f10fc6,09b26c84-b2c1-45cf-8cba-a69cf72d7893,de5b0ccf-a595-44db-a23c-329f57e35e9f,91f8cf3b-adb3-4bb4-bab4-d76f5e5824de"
+      }
+    },
+    {
+      "id": "2f38be23-bc88-4a16-94b9-78af126905db",
+      "title": "CS201 - LH-03",
+      "start": "2024-09-16T11:00:00",
+      "end": "2024-09-16T12:00:00",
+      "extendedProps": {
+        "course_name": "Data Structures",
+        "faculty": "Nimrat Natarajan",
+        "room": "LH-03",
+        "type": "theory",
+        "batch_ids": "8fe958eb-8377-4fd7-ac0e-65ab86352d4d,64fcba0c-ae35-4631-ae89-ddbb61123d55"
+      }
+    },
+    {
+      "id": "75d06c97-6966-4d3e-86d7-a6af972c871a",
+      "title": "CS201 - LH-06",
+      "start": "2024-09-18T08:00:00",
+      "end": "2024-09-18T09:00:00",
+      "extendedProps": {
+        "course_name": "Data Structures",
+        "faculty": "Nimrat Natarajan",
+        "room": "LH-06",
+        "type": "theory",
+        "batch_ids": "8fe958eb-8377-4fd7-ac0e-65ab86352d4d,64fcba0c-ae35-4631-ae89-ddbb61123d55"
+      }
+    },
+    {
+      "id": "8f6798ad-ccde-4e4c-a8d5-d500a1d38d28",
+      "title": "CS201 - LH-01",
+      "start": "2024-09-18T13:00:00",
+      "end": "2024-09-18T14:00:00",
+      "extendedProps": {
+        "course_name": "Data Structures",
+        "faculty": "Nimrat Natarajan",
+        "room": "LH-01",
+        "type": "theory",
+        "batch_ids": "8fe958eb-8377-4fd7-ac0e-65ab86352d4d,64fcba0c-ae35-4631-ae89-ddbb61123d55"
+      }
+    },
+    {
+      "id": "526d6672-2a17-478b-8484-b1f82d27c985",
+      "title": "CS202 - LH-04",
+      "start": "2024-09-18T15:00:00",
+      "end": "2024-09-18T16:00:00",
+      "extendedProps": {
+        "course_name": "Computer Organization",
+        "faculty": "Nikita Golla",
+        "room": "LH-04",
+        "type": "theory",
+        "batch_ids": "8fe958eb-8377-4fd7-ac0e-65ab86352d4d,64fcba0c-ae35-4631-ae89-ddbb61123d55"
+      }
+    },
+    {
+      "id": "898dae88-4630-4424-800e-ad98e38f3bb7",
+      "title": "CS202 - LH-04",
+      "start": "2024-09-21T16:00:00",
+      "end": "2024-09-21T17:00:00",
+      "extendedProps": {
+        "course_name": "Computer Organization",
+        "faculty": "Nikita Golla",
+        "room": "LH-04",
+        "type": "theory",
+        "batch_ids": "8fe958eb-8377-4fd7-ac0e-65ab86352d4d,64fcba0c-ae35-4631-ae89-ddbb61123d55"
+      }
+    },
+    {
+      "id": "e7398bb3-df05-432a-8edf-97f5c55280b7",
+      "title": "CS203 - LH-04",
+      "start": "2024-09-18T10:00:00",
+      "end": "2024-09-18T11:00:00",
+      "extendedProps": {
+        "course_name": "Discrete Mathematics",
+        "faculty": "Ekapad Shetty",
+        "room": "LH-04",
+        "type": "theory",
+        "batch_ids": "8fe958eb-8377-4fd7-ac0e-65ab86352d4d,64fcba0c-ae35-4631-ae89-ddbb61123d55"
+      }
+    },
+    {
+      "id": "d24aca38-2a9e-48e2-9b30-c7ff5c39e499",
+      "title": "CS203 - LH-01",
+      "start": "2024-09-20T13:00:00",
+      "end": "2024-09-20T14:00:00",
+      "extendedProps": {
+        "course_name": "Discrete Mathematics",
+        "faculty": "Ekapad Shetty",
+        "room": "LH-01",
+        "type": "theory",
+        "batch_ids": "8fe958eb-8377-4fd7-ac0e-65ab86352d4d,64fcba0c-ae35-4631-ae89-ddbb61123d55"
+      }
+    },
+    {
+      "id": "b1ba7f09-b023-49ea-9dca-668f1632d573",
+      "title": "MATH201 - LH-01",
+      "start": "2024-09-21T15:00:00",
+      "end": "2024-09-21T16:00:00",
+      "extendedProps": {
+        "course_name": "Probability & Statistics",
+        "faculty": "Ekapad Shetty",
+        "room": "LH-01",
+        "type": "theory",
+        "batch_ids": "8fe958eb-8377-4fd7-ac0e-65ab86352d4d,64fcba0c-ae35-4631-ae89-ddbb61123d55"
+      }
+    },
+    {
+      "id": "32f7c3f6-689d-4f4a-b2bb-ffad810dd2a5",
+      "title": "MATH201 - LH-05",
+      "start": "2024-09-19T10:00:00",
+      "end": "2024-09-19T11:00:00",
+      "extendedProps": {
+        "course_name": "Probability & Statistics",
+        "faculty": "Ekapad Shetty",
+        "room": "LH-05",
+        "type": "theory",
+        "batch_ids": "8fe958eb-8377-4fd7-ac0e-65ab86352d4d,64fcba0c-ae35-4631-ae89-ddbb61123d55"
+      }
+    },
+    {
+      "id": "f152ec07-7601-4643-a1fe-8de9fe2dae90",
+      "title": "CS201L - CSE-LAB-1",
+      "start": "2024-09-18T14:00:00",
+      "end": "2024-09-18T15:00:00",
+      "extendedProps": {
+        "course_name": "Data Structures Lab",
+        "faculty": "Jagat Gopal",
+        "room": "CSE-LAB-1",
+        "type": "lab",
+        "batch_ids": "8fe958eb-8377-4fd7-ac0e-65ab86352d4d,64fcba0c-ae35-4631-ae89-ddbb61123d55"
+      }
+    },
+    {
+      "id": "d941a4d4-d326-4e47-8fbe-3fd5ff8126d0",
+      "title": "CS201L - CSE-LAB-3",
+      "start": "2024-09-16T14:00:00",
+      "end": "2024-09-16T15:00:00",
+      "extendedProps": {
+        "course_name": "Data Structures Lab",
+        "faculty": "Jagat Gopal",
+        "room": "CSE-LAB-3",
+        "type": "lab",
+        "batch_ids": "8fe958eb-8377-4fd7-ac0e-65ab86352d4d,64fcba0c-ae35-4631-ae89-ddbb61123d55"
+      }
+    },
+    {
+      "id": "0ff0cb39-b4b6-4c92-8385-14927985cfdb",
+      "title": "CS202L - CSE-LAB-1",
+      "start": "2024-09-20T15:00:00",
+      "end": "2024-09-20T16:00:00",
+      "extendedProps": {
+        "course_name": "Computer Organization Lab",
+        "faculty": "Anya Biswas",
+        "room": "CSE-LAB-1",
+        "type": "lab",
+        "batch_ids": "8fe958eb-8377-4fd7-ac0e-65ab86352d4d,64fcba0c-ae35-4631-ae89-ddbb61123d55"
+      }
+    },
+    {
+      "id": "44b8f4d5-9dce-47e3-bb30-350c22606457",
+      "title": "CS202L - CSE-LAB-3",
+      "start": "2024-09-19T08:00:00",
+      "end": "2024-09-19T09:00:00",
+      "extendedProps": {
+        "course_name": "Computer Organization Lab",
+        "faculty": "Anya Biswas",
+        "room": "CSE-LAB-3",
+        "type": "lab",
+        "batch_ids": "8fe958eb-8377-4fd7-ac0e-65ab86352d4d,64fcba0c-ae35-4631-ae89-ddbb61123d55"
+      }
+    },
+    {
+      "id": "0c6a5bb2-1944-410b-a5ec-dd1773a2b732",
+      "title": "MECH201 - LH-03",
+      "start": "2024-09-18T15:00:00",
+      "end": "2024-09-18T16:00:00",
+      "extendedProps": {
+        "course_name": "Engineering Mechanics",
+        "faculty": "Netra Ray",
+        "room": "LH-03",
+        "type": "theory",
+        "batch_ids": "ad14d021-9a40-488b-a194-2f250d466d46,b4b60cde-1c38-47c3-831b-b0e70971db11"
+      }
+    },
+    {
+      "id": "0be4b33d-9651-40f6-b4b6-908c274ec6c3",
+      "title": "MECH201 - LH-01",
+      "start": "2024-09-21T08:00:00",
+      "end": "2024-09-21T09:00:00",
+      "extendedProps": {
+        "course_name": "Engineering Mechanics",
+        "faculty": "Netra Ray",
+        "room": "LH-01",
+        "type": "theory",
+        "batch_ids": "ad14d021-9a40-488b-a194-2f250d466d46,b4b60cde-1c38-47c3-831b-b0e70971db11"
+      }
+    },
+    {
+      "id": "24f8c434-01ce-4f90-8bd5-b794e075df68",
+      "title": "MECH201 - LH-03",
+      "start": "2024-09-21T15:00:00",
+      "end": "2024-09-21T16:00:00",
+      "extendedProps": {
+        "course_name": "Engineering Mechanics",
+        "faculty": "Netra Ray",
+        "room": "LH-03",
+        "type": "theory",
+        "batch_ids": "ad14d021-9a40-488b-a194-2f250d466d46,b4b60cde-1c38-47c3-831b-b0e70971db11"
+      }
+    },
+    {
+      "id": "15ee43ed-5343-41a1-9d58-7722b0321c22",
+      "title": "MECH202 - LH-01",
+      "start": "2024-09-20T10:00:00",
+      "end": "2024-09-20T11:00:00",
+      "extendedProps": {
+        "course_name": "Strength of Materials",
+        "faculty": "Watika Roy",
+        "room": "LH-01",
+        "type": "theory",
+        "batch_ids": "ad14d021-9a40-488b-a194-2f250d466d46,b4b60cde-1c38-47c3-831b-b0e70971db11"
+      }
+    },
+    {
+      "id": "04dc4581-1333-49b8-b4d7-fa30d80fb974",
+      "title": "MECH202 - LH-01",
+      "start": "2024-09-17T16:00:00",
+      "end": "2024-09-17T17:00:00",
+      "extendedProps": {
+        "course_name": "Strength of Materials",
+        "faculty": "Watika Roy",
+        "room": "LH-01",
+        "type": "theory",
+        "batch_ids": "ad14d021-9a40-488b-a194-2f250d466d46,b4b60cde-1c38-47c3-831b-b0e70971db11"
+      }
+    },
+    {
+      "id": "e695620a-1e39-41cf-bafd-46d30e1a3f95",
+      "title": "MECH202 - LH-02",
+      "start": "2024-09-17T09:00:00",
+      "end": "2024-09-17T10:00:00",
+      "extendedProps": {
+        "course_name": "Strength of Materials",
+        "faculty": "Watika Roy",
+        "room": "LH-02",
+        "type": "theory",
+        "batch_ids": "ad14d021-9a40-488b-a194-2f250d466d46,b4b60cde-1c38-47c3-831b-b0e70971db11"
+      }
+    },
+    {
+      "id": "7862df23-b2c8-465a-816d-896ea8c1f8db",
+      "title": "MECH203 - LH-03",
+      "start": "2024-09-21T14:00:00",
+      "end": "2024-09-21T15:00:00",
+      "extendedProps": {
+        "course_name": "Thermodynamics",
+        "faculty": "Netra Ray",
+        "room": "LH-03",
+        "type": "theory",
+        "batch_ids": "ad14d021-9a40-488b-a194-2f250d466d46,b4b60cde-1c38-47c3-831b-b0e70971db11"
+      }
+    },
+    {
+      "id": "e1d682e7-c950-4d7e-b7aa-36d7f8b4c972",
+      "title": "MECH203 - LH-05",
+      "start": "2024-09-19T08:00:00",
+      "end": "2024-09-19T09:00:00",
+      "extendedProps": {
+        "course_name": "Thermodynamics",
+        "faculty": "Netra Ray",
+        "room": "LH-05",
+        "type": "theory",
+        "batch_ids": "ad14d021-9a40-488b-a194-2f250d466d46,b4b60cde-1c38-47c3-831b-b0e70971db11"
+      }
+    },
+    {
+      "id": "b982589e-1e8b-4e7d-8709-0a56cb33157f",
+      "title": "MECH204 - LH-01",
+      "start": "2024-09-18T16:00:00",
+      "end": "2024-09-18T17:00:00",
+      "extendedProps": {
+        "course_name": "Engineering Drawing",
+        "faculty": "Netra Ray",
+        "room": "LH-01",
+        "type": "theory",
+        "batch_ids": "ad14d021-9a40-488b-a194-2f250d466d46,b4b60cde-1c38-47c3-831b-b0e70971db11"
+      }
+    },
+    {
+      "id": "c80bf6c5-fe28-40d8-9b58-4085d04aa2f1",
+      "title": "MECH204 - LH-02",
+      "start": "2024-09-21T13:00:00",
+      "end": "2024-09-21T14:00:00",
+      "extendedProps": {
+        "course_name": "Engineering Drawing",
+        "faculty": "Netra Ray",
+        "room": "LH-02",
+        "type": "theory",
+        "batch_ids": "ad14d021-9a40-488b-a194-2f250d466d46,b4b60cde-1c38-47c3-831b-b0e70971db11"
+      }
+    },
+    {
+      "id": "e4aedd38-bcda-4ba8-871d-fd2a04f5fa0d",
+      "title": "MECH201L - MECH-LAB-3",
+      "start": "2024-09-16T08:00:00",
+      "end": "2024-09-16T09:00:00",
+      "extendedProps": {
+        "course_name": "Mechanics Lab",
+        "faculty": "Sanya Varkey",
+        "room": "MECH-LAB-3",
+        "type": "lab",
+        "batch_ids": "ad14d021-9a40-488b-a194-2f250d466d46,b4b60cde-1c38-47c3-831b-b0e70971db11"
+      }
+    },
+    {
+      "id": "d7955b13-4656-43e1-b633-4ee114b3c7eb",
+      "title": "MECH201L - MECH-LAB-1",
+      "start": "2024-09-19T17:00:00",
+      "end": "2024-09-19T18:00:00",
+      "extendedProps": {
+        "course_name": "Mechanics Lab",
+        "faculty": "Sanya Varkey",
+        "room": "MECH-LAB-1",
+        "type": "lab",
+        "batch_ids": "ad14d021-9a40-488b-a194-2f250d466d46,b4b60cde-1c38-47c3-831b-b0e70971db11"
+      }
+    },
+    {
+      "id": "0352d522-b97e-468a-9435-7f89480c403a",
+      "title": "MECH203L - MECH-LAB-3",
+      "start": "2024-09-18T13:00:00",
+      "end": "2024-09-18T14:00:00",
+      "extendedProps": {
+        "course_name": "Thermal Lab",
+        "faculty": "Yashasvi Handa",
+        "room": "MECH-LAB-3",
+        "type": "lab",
+        "batch_ids": "ad14d021-9a40-488b-a194-2f250d466d46,b4b60cde-1c38-47c3-831b-b0e70971db11"
+      }
+    },
+    {
+      "id": "769b8cf7-e777-4f01-b594-9853b27ba7f5",
+      "title": "MECH203L - MECH-LAB-3",
+      "start": "2024-09-19T11:00:00",
+      "end": "2024-09-19T12:00:00",
+      "extendedProps": {
+        "course_name": "Thermal Lab",
+        "faculty": "Yashasvi Handa",
+        "room": "MECH-LAB-3",
+        "type": "lab",
+        "batch_ids": "ad14d021-9a40-488b-a194-2f250d466d46,b4b60cde-1c38-47c3-831b-b0e70971db11"
+      }
+    },
+    {
+      "id": "535ab865-ceb3-4a64-9e43-f0edf65759ce",
+      "title": "EE201 - LH-02",
+      "start": "2024-09-18T16:00:00",
+      "end": "2024-09-18T17:00:00",
+      "extendedProps": {
+        "course_name": "Circuit Analysis",
+        "faculty": "Maanas Wadhwa",
+        "room": "LH-02",
+        "type": "theory",
+        "batch_ids": "5047d652-ab6b-4572-a5eb-2db5d56fb78a,c343d459-c8a4-4db2-829f-9e9030bec4b8"
+      }
+    },
+    {
+      "id": "ca917b3b-bdc2-4be0-bdbb-6ab1ffaef714",
+      "title": "EE201 - LH-01",
+      "start": "2024-09-16T10:00:00",
+      "end": "2024-09-16T11:00:00",
+      "extendedProps": {
+        "course_name": "Circuit Analysis",
+        "faculty": "Maanas Wadhwa",
+        "room": "LH-01",
+        "type": "theory",
+        "batch_ids": "5047d652-ab6b-4572-a5eb-2db5d56fb78a,c343d459-c8a4-4db2-829f-9e9030bec4b8"
+      }
+    },
+    {
+      "id": "d12eace4-a4bc-45e3-b767-5b9469441a95",
+      "title": "EE201 - LH-06",
+      "start": "2024-09-19T09:00:00",
+      "end": "2024-09-19T10:00:00",
+      "extendedProps": {
+        "course_name": "Circuit Analysis",
+        "faculty": "Maanas Wadhwa",
+        "room": "LH-06",
+        "type": "theory",
+        "batch_ids": "5047d652-ab6b-4572-a5eb-2db5d56fb78a,c343d459-c8a4-4db2-829f-9e9030bec4b8"
+      }
+    },
+    {
+      "id": "fd2568bd-d44a-472c-9e88-55471828bc10",
+      "title": "EE202 - LH-06",
+      "start": "2024-09-18T14:00:00",
+      "end": "2024-09-18T15:00:00",
+      "extendedProps": {
+        "course_name": "Electronic Devices",
+        "faculty": "Balendra Mander",
+        "room": "LH-06",
+        "type": "theory",
+        "batch_ids": "5047d652-ab6b-4572-a5eb-2db5d56fb78a,c343d459-c8a4-4db2-829f-9e9030bec4b8"
+      }
+    },
+    {
+      "id": "5be59952-43f8-488f-b0ec-975852506dfa",
+      "title": "EE202 - LH-05",
+      "start": "2024-09-16T17:00:00",
+      "end": "2024-09-16T18:00:00",
+      "extendedProps": {
+        "course_name": "Electronic Devices",
+        "faculty": "Balendra Mander",
+        "room": "LH-05",
+        "type": "theory",
+        "batch_ids": "5047d652-ab6b-4572-a5eb-2db5d56fb78a,c343d459-c8a4-4db2-829f-9e9030bec4b8"
+      }
+    },
+    {
+      "id": "ac21eba1-9f75-4dbc-acff-e3ef5181478e",
+      "title": "EE203 - LH-02",
+      "start": "2024-09-18T13:00:00",
+      "end": "2024-09-18T14:00:00",
+      "extendedProps": {
+        "course_name": "Electromagnetic Theory",
+        "faculty": "Anvi Sharma",
+        "room": "LH-02",
+        "type": "theory",
+        "batch_ids": "5047d652-ab6b-4572-a5eb-2db5d56fb78a,c343d459-c8a4-4db2-829f-9e9030bec4b8"
+      }
+    },
+    {
+      "id": "8e41156a-d4b8-4ec5-a4ef-8fb3283d7f4d",
+      "title": "EE203 - LH-03",
+      "start": "2024-09-21T10:00:00",
+      "end": "2024-09-21T11:00:00",
+      "extendedProps": {
+        "course_name": "Electromagnetic Theory",
+        "faculty": "Anvi Sharma",
+        "room": "LH-03",
+        "type": "theory",
+        "batch_ids": "5047d652-ab6b-4572-a5eb-2db5d56fb78a,c343d459-c8a4-4db2-829f-9e9030bec4b8"
+      }
+    },
+    {
+      "id": "28b72a4c-b3c2-47a5-b670-977a16ec1a8c",
+      "title": "EE204 - LH-01",
+      "start": "2024-09-20T11:00:00",
+      "end": "2024-09-20T12:00:00",
+      "extendedProps": {
+        "course_name": "Digital Logic Design",
+        "faculty": "Rishi Madan",
+        "room": "LH-01",
+        "type": "theory",
+        "batch_ids": "5047d652-ab6b-4572-a5eb-2db5d56fb78a,c343d459-c8a4-4db2-829f-9e9030bec4b8"
+      }
+    },
+    {
+      "id": "43a88fcc-fd2a-4437-9c85-e0a93c77bd1b",
+      "title": "EE204 - LH-02",
+      "start": "2024-09-17T10:00:00",
+      "end": "2024-09-17T11:00:00",
+      "extendedProps": {
+        "course_name": "Digital Logic Design",
+        "faculty": "Rishi Madan",
+        "room": "LH-02",
+        "type": "theory",
+        "batch_ids": "5047d652-ab6b-4572-a5eb-2db5d56fb78a,c343d459-c8a4-4db2-829f-9e9030bec4b8"
+      }
+    },
+    {
+      "id": "2127b9fd-b6d3-4cfd-9057-c42b7cf5d470",
+      "title": "EE201L - EE-LAB-2",
+      "start": "2024-09-19T08:00:00",
+      "end": "2024-09-19T09:00:00",
+      "extendedProps": {
+        "course_name": "Circuit Analysis Lab",
+        "faculty": "Thomas Saraf",
+        "room": "EE-LAB-2",
+        "type": "lab",
+        "batch_ids": "5047d652-ab6b-4572-a5eb-2db5d56fb78a,c343d459-c8a4-4db2-829f-9e9030bec4b8"
+      }
+    },
+    {
+      "id": "39af72ef-c0f7-4ceb-b45e-a278444f8927",
+      "title": "EE201L - EE-LAB-2",
+      "start": "2024-09-20T14:00:00",
+      "end": "2024-09-20T15:00:00",
+      "extendedProps": {
+        "course_name": "Circuit Analysis Lab",
+        "faculty": "Thomas Saraf",
+        "room": "EE-LAB-2",
+        "type": "lab",
+        "batch_ids": "5047d652-ab6b-4572-a5eb-2db5d56fb78a,c343d459-c8a4-4db2-829f-9e9030bec4b8"
+      }
+    },
+    {
+      "id": "3e9683d6-45a5-4f74-ada4-34165c58ddd1",
+      "title": "EE202L - EE-LAB-3",
+      "start": "2024-09-20T10:00:00",
+      "end": "2024-09-20T11:00:00",
+      "extendedProps": {
+        "course_name": "Electronics Lab",
+        "faculty": "Frado Nori",
+        "room": "EE-LAB-3",
+        "type": "lab",
+        "batch_ids": "5047d652-ab6b-4572-a5eb-2db5d56fb78a,c343d459-c8a4-4db2-829f-9e9030bec4b8"
+      }
+    },
+    {
+      "id": "f6548f19-6e96-4df5-805f-5c002c8482fc",
+      "title": "EE202L - EE-LAB-2",
+      "start": "2024-09-16T09:00:00",
+      "end": "2024-09-16T10:00:00",
+      "extendedProps": {
+        "course_name": "Electronics Lab",
+        "faculty": "Frado Nori",
+        "room": "EE-LAB-2",
+        "type": "lab",
+        "batch_ids": "5047d652-ab6b-4572-a5eb-2db5d56fb78a,c343d459-c8a4-4db2-829f-9e9030bec4b8"
+      }
+    },
+    {
+      "id": "cfc58141-67a9-40e7-ab9d-cbd678774bdf",
+      "title": "CS301 - LH-05",
+      "start": "2024-09-19T16:00:00",
+      "end": "2024-09-19T17:00:00",
+      "extendedProps": {
+        "course_name": "Database Management",
+        "faculty": "Madhavi Kashyap",
+        "room": "LH-05",
+        "type": "theory",
+        "batch_ids": "b0ae6b39-8396-410d-bad7-fe59c09dc52f,02a24726-8c46-4f92-909a-d4939674bd9b"
+      }
+    },
+    {
+      "id": "362d7147-9e86-4700-ba1f-9ca0bd186ce8",
+      "title": "CS301 - LH-05",
+      "start": "2024-09-19T15:00:00",
+      "end": "2024-09-19T16:00:00",
+      "extendedProps": {
+        "course_name": "Database Management",
+        "faculty": "Madhavi Kashyap",
+        "room": "LH-05",
+        "type": "theory",
+        "batch_ids": "b0ae6b39-8396-410d-bad7-fe59c09dc52f,02a24726-8c46-4f92-909a-d4939674bd9b"
+      }
+    },
+    {
+      "id": "562468d3-e41f-4e99-b51d-11f2b5a4f08a",
+      "title": "CS301 - LH-03",
+      "start": "2024-09-16T10:00:00",
+      "end": "2024-09-16T11:00:00",
+      "extendedProps": {
+        "course_name": "Database Management",
+        "faculty": "Madhavi Kashyap",
+        "room": "LH-03",
+        "type": "theory",
+        "batch_ids": "b0ae6b39-8396-410d-bad7-fe59c09dc52f,02a24726-8c46-4f92-909a-d4939674bd9b"
+      }
+    },
+    {
+      "id": "6c3180a1-0f6f-4f88-bca4-a00d3ec137cc",
+      "title": "CS302 - LH-04",
+      "start": "2024-09-21T09:00:00",
+      "end": "2024-09-21T10:00:00",
+      "extendedProps": {
+        "course_name": "Computer Networks",
+        "faculty": "Rohan Tata",
+        "room": "LH-04",
+        "type": "theory",
+        "batch_ids": "b0ae6b39-8396-410d-bad7-fe59c09dc52f,02a24726-8c46-4f92-909a-d4939674bd9b"
+      }
+    },
+    {
+      "id": "9f798e41-d62c-4600-9e95-c8ca677932c5",
+      "title": "CS302 - LH-03",
+      "start": "2024-09-19T17:00:00",
+      "end": "2024-09-19T18:00:00",
+      "extendedProps": {
+        "course_name": "Computer Networks",
+        "faculty": "Rohan Tata",
+        "room": "LH-03",
+        "type": "theory",
+        "batch_ids": "b0ae6b39-8396-410d-bad7-fe59c09dc52f,02a24726-8c46-4f92-909a-d4939674bd9b"
+      }
+    },
+    {
+      "id": "9d8f64a7-d1cb-4fe3-9fb9-cc5db87c88a6",
+      "title": "CS303 - LH-06",
+      "start": "2024-09-17T17:00:00",
+      "end": "2024-09-17T18:00:00",
+      "extendedProps": {
+        "course_name": "Operating Systems",
+        "faculty": "Kalpit Ahluwalia",
+        "room": "LH-06",
+        "type": "theory",
+        "batch_ids": "b0ae6b39-8396-410d-bad7-fe59c09dc52f,02a24726-8c46-4f92-909a-d4939674bd9b"
+      }
+    },
+    {
+      "id": "15c6472a-9a51-47c3-94ad-440bc050b224",
+      "title": "CS303 - LH-02",
+      "start": "2024-09-20T10:00:00",
+      "end": "2024-09-20T11:00:00",
+      "extendedProps": {
+        "course_name": "Operating Systems",
+        "faculty": "Kalpit Ahluwalia",
+        "room": "LH-02",
+        "type": "theory",
+        "batch_ids": "b0ae6b39-8396-410d-bad7-fe59c09dc52f,02a24726-8c46-4f92-909a-d4939674bd9b"
+      }
+    },
+    {
+      "id": "9afa6919-1a27-473e-9365-d63036056b05",
+      "title": "CS303 - LH-02",
+      "start": "2024-09-16T17:00:00",
+      "end": "2024-09-16T18:00:00",
+      "extendedProps": {
+        "course_name": "Operating Systems",
+        "faculty": "Kalpit Ahluwalia",
+        "room": "LH-02",
+        "type": "theory",
+        "batch_ids": "b0ae6b39-8396-410d-bad7-fe59c09dc52f,02a24726-8c46-4f92-909a-d4939674bd9b"
+      }
+    },
+    {
+      "id": "393f0d5e-bd3e-4022-94a9-29a39b798f94",
+      "title": "CS304 - LH-02",
+      "start": "2024-09-18T10:00:00",
+      "end": "2024-09-18T11:00:00",
+      "extendedProps": {
+        "course_name": "Software Engineering",
+        "faculty": "Nimrat Natarajan",
+        "room": "LH-02",
+        "type": "theory",
+        "batch_ids": "b0ae6b39-8396-410d-bad7-fe59c09dc52f,02a24726-8c46-4f92-909a-d4939674bd9b"
+      }
+    },
+    {
+      "id": "4f6caf0c-ccf6-4e42-bc00-a80fef9841d6",
+      "title": "CS304 - LH-03",
+      "start": "2024-09-18T11:00:00",
+      "end": "2024-09-18T12:00:00",
+      "extendedProps": {
+        "course_name": "Software Engineering",
+        "faculty": "Nimrat Natarajan",
+        "room": "LH-03",
+        "type": "theory",
+        "batch_ids": "b0ae6b39-8396-410d-bad7-fe59c09dc52f,02a24726-8c46-4f92-909a-d4939674bd9b"
+      }
+    },
+    {
+      "id": "7b913827-d362-449f-ac5f-97ef81e136e1",
+      "title": "CS301L - CSE-LAB-1",
+      "start": "2024-09-20T13:00:00",
+      "end": "2024-09-20T14:00:00",
+      "extendedProps": {
+        "course_name": "Database Lab",
+        "faculty": "Anya Biswas",
+        "room": "CSE-LAB-1",
+        "type": "lab",
+        "batch_ids": "b0ae6b39-8396-410d-bad7-fe59c09dc52f,02a24726-8c46-4f92-909a-d4939674bd9b"
+      }
+    },
+    {
+      "id": "47b41279-83eb-469f-9989-b4dafeca83ea",
+      "title": "CS301L - CSE-LAB-3",
+      "start": "2024-09-21T13:00:00",
+      "end": "2024-09-21T14:00:00",
+      "extendedProps": {
+        "course_name": "Database Lab",
+        "faculty": "Anya Biswas",
+        "room": "CSE-LAB-3",
+        "type": "lab",
+        "batch_ids": "b0ae6b39-8396-410d-bad7-fe59c09dc52f,02a24726-8c46-4f92-909a-d4939674bd9b"
+      }
+    },
+    {
+      "id": "20efa998-723d-4fb5-bd85-7db7ca073aab",
+      "title": "CS303L - CSE-LAB-3",
+      "start": "2024-09-20T09:00:00",
+      "end": "2024-09-20T10:00:00",
+      "extendedProps": {
+        "course_name": "OS Lab",
+        "faculty": "Darika Varkey",
+        "room": "CSE-LAB-3",
+        "type": "lab",
+        "batch_ids": "b0ae6b39-8396-410d-bad7-fe59c09dc52f,02a24726-8c46-4f92-909a-d4939674bd9b"
+      }
+    },
+    {
+      "id": "be0ef780-7474-4b44-a62d-11c81db36ac4",
+      "title": "CS303L - CSE-LAB-3",
+      "start": "2024-09-21T10:00:00",
+      "end": "2024-09-21T11:00:00",
+      "extendedProps": {
+        "course_name": "OS Lab",
+        "faculty": "Darika Varkey",
+        "room": "CSE-LAB-3",
+        "type": "lab",
+        "batch_ids": "b0ae6b39-8396-410d-bad7-fe59c09dc52f,02a24726-8c46-4f92-909a-d4939674bd9b"
+      }
+    },
+    {
+      "id": "31ac088d-625f-4cf0-8ac1-1f62b5546ae4",
+      "title": "MECH301 - LH-05",
+      "start": "2024-09-21T14:00:00",
+      "end": "2024-09-21T15:00:00",
+      "extendedProps": {
+        "course_name": "Machine Design",
+        "faculty": "Baghyawati Chadha",
+        "room": "LH-05",
+        "type": "theory",
+        "batch_ids": "f38c9e7f-1fcc-41b0-9251-f6aa97899002,c7d9416d-d4e9-4f43-b441-951bc4664ba0"
+      }
+    },
+    {
+      "id": "d4aa82cc-0122-4d4a-af69-40b0f7407a15",
+      "title": "MECH301 - LH-01",
+      "start": "2024-09-16T08:00:00",
+      "end": "2024-09-16T09:00:00",
+      "extendedProps": {
+        "course_name": "Machine Design",
+        "faculty": "Baghyawati Chadha",
+        "room": "LH-01",
+        "type": "theory",
+        "batch_ids": "f38c9e7f-1fcc-41b0-9251-f6aa97899002,c7d9416d-d4e9-4f43-b441-951bc4664ba0"
+      }
+    },
+    {
+      "id": "4c7a5e45-49a3-4767-8757-862e3a6825ea",
+      "title": "MECH301 - LH-06",
+      "start": "2024-09-16T13:00:00",
+      "end": "2024-09-16T14:00:00",
+      "extendedProps": {
+        "course_name": "Machine Design",
+        "faculty": "Baghyawati Chadha",
+        "room": "LH-06",
+        "type": "theory",
+        "batch_ids": "f38c9e7f-1fcc-41b0-9251-f6aa97899002,c7d9416d-d4e9-4f43-b441-951bc4664ba0"
+      }
+    },
+    {
+      "id": "3c758730-1858-4a6d-95a2-a650012a9197",
+      "title": "MECH302 - LH-05",
+      "start": "2024-09-17T15:00:00",
+      "end": "2024-09-17T16:00:00",
+      "extendedProps": {
+        "course_name": "Heat Transfer",
+        "faculty": "Darsh Babu",
+        "room": "LH-05",
+        "type": "theory",
+        "batch_ids": "f38c9e7f-1fcc-41b0-9251-f6aa97899002,c7d9416d-d4e9-4f43-b441-951bc4664ba0"
+      }
+    },
+    {
+      "id": "9bdb0609-41d0-4f49-90ff-ddcd9b75791e",
+      "title": "MECH302 - LH-04",
+      "start": "2024-09-21T08:00:00",
+      "end": "2024-09-21T09:00:00",
+      "extendedProps": {
+        "course_name": "Heat Transfer",
+        "faculty": "Darsh Babu",
+        "room": "LH-04",
+        "type": "theory",
+        "batch_ids": "f38c9e7f-1fcc-41b0-9251-f6aa97899002,c7d9416d-d4e9-4f43-b441-951bc4664ba0"
+      }
+    },
+    {
+      "id": "a9158474-1f7f-451f-8aec-3ed5e6003544",
+      "title": "MECH303 - LH-03",
+      "start": "2024-09-21T17:00:00",
+      "end": "2024-09-21T18:00:00",
+      "extendedProps": {
+        "course_name": "Manufacturing Processes",
+        "faculty": "Yashasvi Handa",
+        "room": "LH-03",
+        "type": "theory",
+        "batch_ids": "f38c9e7f-1fcc-41b0-9251-f6aa97899002,c7d9416d-d4e9-4f43-b441-951bc4664ba0"
+      }
+    },
+    {
+      "id": "d7936e53-34ce-44bd-aa88-9ef9ccdc453a",
+      "title": "MECH303 - LH-04",
+      "start": "2024-09-21T13:00:00",
+      "end": "2024-09-21T14:00:00",
+      "extendedProps": {
+        "course_name": "Manufacturing Processes",
+        "faculty": "Yashasvi Handa",
+        "room": "LH-04",
+        "type": "theory",
+        "batch_ids": "f38c9e7f-1fcc-41b0-9251-f6aa97899002,c7d9416d-d4e9-4f43-b441-951bc4664ba0"
+      }
+    },
+    {
+      "id": "e17fb011-61fb-4ce2-ad0d-06a8f5b434a0",
+      "title": "MECH303 - LH-04",
+      "start": "2024-09-16T10:00:00",
+      "end": "2024-09-16T11:00:00",
+      "extendedProps": {
+        "course_name": "Manufacturing Processes",
+        "faculty": "Yashasvi Handa",
+        "room": "LH-04",
+        "type": "theory",
+        "batch_ids": "f38c9e7f-1fcc-41b0-9251-f6aa97899002,c7d9416d-d4e9-4f43-b441-951bc4664ba0"
+      }
+    },
+    {
+      "id": "a0a376fe-5fee-41cf-801d-23e7778231ec",
+      "title": "MECH304 - LH-04",
+      "start": "2024-09-19T16:00:00",
+      "end": "2024-09-19T17:00:00",
+      "extendedProps": {
+        "course_name": "Fluid Mechanics",
+        "faculty": "Jalsa Pant",
+        "room": "LH-04",
+        "type": "theory",
+        "batch_ids": "f38c9e7f-1fcc-41b0-9251-f6aa97899002,c7d9416d-d4e9-4f43-b441-951bc4664ba0"
+      }
+    },
+    {
+      "id": "c42785b5-7df0-4089-ab1c-4a043a274b32",
+      "title": "MECH304 - LH-05",
+      "start": "2024-09-17T14:00:00",
+      "end": "2024-09-17T15:00:00",
+      "extendedProps": {
+        "course_name": "Fluid Mechanics",
+        "faculty": "Jalsa Pant",
+        "room": "LH-05",
+        "type": "theory",
+        "batch_ids": "f38c9e7f-1fcc-41b0-9251-f6aa97899002,c7d9416d-d4e9-4f43-b441-951bc4664ba0"
+      }
+    },
+    {
+      "id": "bd46c5ab-b57f-4c95-8bf0-46fb8b04cc20",
+      "title": "MECH301L - MECH-LAB-2",
+      "start": "2024-09-18T14:00:00",
+      "end": "2024-09-18T15:00:00",
+      "extendedProps": {
+        "course_name": "Design Lab",
+        "faculty": "Patrick Choudhary",
+        "room": "MECH-LAB-2",
+        "type": "lab",
+        "batch_ids": "f38c9e7f-1fcc-41b0-9251-f6aa97899002,c7d9416d-d4e9-4f43-b441-951bc4664ba0"
+      }
+    },
+    {
+      "id": "143d8047-6f40-419b-8a14-dbe62986ce83",
+      "title": "MECH301L - MECH-LAB-2",
+      "start": "2024-09-20T09:00:00",
+      "end": "2024-09-20T10:00:00",
+      "extendedProps": {
+        "course_name": "Design Lab",
+        "faculty": "Patrick Choudhary",
+        "room": "MECH-LAB-2",
+        "type": "lab",
+        "batch_ids": "f38c9e7f-1fcc-41b0-9251-f6aa97899002,c7d9416d-d4e9-4f43-b441-951bc4664ba0"
+      }
+    },
+    {
+      "id": "f4c92463-a247-4638-ac00-066e49ce0e7c",
+      "title": "MECH303L - MECH-LAB-1",
+      "start": "2024-09-17T16:00:00",
+      "end": "2024-09-17T17:00:00",
+      "extendedProps": {
+        "course_name": "Manufacturing Lab",
+        "faculty": "Sanya Varkey",
+        "room": "MECH-LAB-1",
+        "type": "lab",
+        "batch_ids": "f38c9e7f-1fcc-41b0-9251-f6aa97899002,c7d9416d-d4e9-4f43-b441-951bc4664ba0"
+      }
+    },
+    {
+      "id": "ea4660fb-6a10-491a-afbe-e540c855cc69",
+      "title": "MECH303L - MECH-LAB-1",
+      "start": "2024-09-18T16:00:00",
+      "end": "2024-09-18T17:00:00",
+      "extendedProps": {
+        "course_name": "Manufacturing Lab",
+        "faculty": "Sanya Varkey",
+        "room": "MECH-LAB-1",
+        "type": "lab",
+        "batch_ids": "f38c9e7f-1fcc-41b0-9251-f6aa97899002,c7d9416d-d4e9-4f43-b441-951bc4664ba0"
+      }
+    },
+    {
+      "id": "83bfc0d6-51ff-4151-b99c-866025f9ce3a",
+      "title": "EE301 - LH-01",
+      "start": "2024-09-17T09:00:00",
+      "end": "2024-09-17T10:00:00",
+      "extendedProps": {
+        "course_name": "Power Systems",
+        "faculty": "Waida Narasimhan",
+        "room": "LH-01",
+        "type": "theory",
+        "batch_ids": "738c3707-e7d6-4357-a068-e8eb8508d28f,a7ec8425-51ef-4e37-af92-fa9c229a30cc"
+      }
+    },
+    {
+      "id": "438da65a-ce27-469c-9a4b-2d116d235b47",
+      "title": "EE301 - LH-05",
+      "start": "2024-09-18T15:00:00",
+      "end": "2024-09-18T16:00:00",
+      "extendedProps": {
+        "course_name": "Power Systems",
+        "faculty": "Waida Narasimhan",
+        "room": "LH-05",
+        "type": "theory",
+        "batch_ids": "738c3707-e7d6-4357-a068-e8eb8508d28f,a7ec8425-51ef-4e37-af92-fa9c229a30cc"
+      }
+    },
+    {
+      "id": "7af4a9cd-c5b5-430d-9a2c-651d955bc4f9",
+      "title": "EE301 - LH-02",
+      "start": "2024-09-19T11:00:00",
+      "end": "2024-09-19T12:00:00",
+      "extendedProps": {
+        "course_name": "Power Systems",
+        "faculty": "Waida Narasimhan",
+        "room": "LH-02",
+        "type": "theory",
+        "batch_ids": "738c3707-e7d6-4357-a068-e8eb8508d28f,a7ec8425-51ef-4e37-af92-fa9c229a30cc"
+      }
+    },
+    {
+      "id": "17d02e06-9772-46b7-93a5-0d577b4f685b",
+      "title": "EE302 - LH-02",
+      "start": "2024-09-18T14:00:00",
+      "end": "2024-09-18T15:00:00",
+      "extendedProps": {
+        "course_name": "Control Systems",
+        "faculty": "Maanas Wadhwa",
+        "room": "LH-02",
+        "type": "theory",
+        "batch_ids": "738c3707-e7d6-4357-a068-e8eb8508d28f,a7ec8425-51ef-4e37-af92-fa9c229a30cc"
+      }
+    },
+    {
+      "id": "511d528e-3954-4e9f-ae76-7d19c1c675a8",
+      "title": "EE302 - LH-05",
+      "start": "2024-09-17T16:00:00",
+      "end": "2024-09-17T17:00:00",
+      "extendedProps": {
+        "course_name": "Control Systems",
+        "faculty": "Maanas Wadhwa",
+        "room": "LH-05",
+        "type": "theory",
+        "batch_ids": "738c3707-e7d6-4357-a068-e8eb8508d28f,a7ec8425-51ef-4e37-af92-fa9c229a30cc"
+      }
+    },
+    {
+      "id": "97f5e02f-bd98-414d-8ef7-1c732d4e1ffa",
+      "title": "EE303 - LH-03",
+      "start": "2024-09-19T16:00:00",
+      "end": "2024-09-19T17:00:00",
+      "extendedProps": {
+        "course_name": "Microprocessors",
+        "faculty": "Maanas Wadhwa",
+        "room": "LH-03",
+        "type": "theory",
+        "batch_ids": "738c3707-e7d6-4357-a068-e8eb8508d28f,a7ec8425-51ef-4e37-af92-fa9c229a30cc"
+      }
+    },
+    {
+      "id": "5fa30970-1248-4156-9591-5ffbccf18187",
+      "title": "EE303 - LH-01",
+      "start": "2024-09-19T08:00:00",
+      "end": "2024-09-19T09:00:00",
+      "extendedProps": {
+        "course_name": "Microprocessors",
+        "faculty": "Maanas Wadhwa",
+        "room": "LH-01",
+        "type": "theory",
+        "batch_ids": "738c3707-e7d6-4357-a068-e8eb8508d28f,a7ec8425-51ef-4e37-af92-fa9c229a30cc"
+      }
+    },
+    {
+      "id": "920b9f3d-4a10-43d7-818b-44147e6a4c12",
+      "title": "EE303 - LH-04",
+      "start": "2024-09-19T17:00:00",
+      "end": "2024-09-19T18:00:00",
+      "extendedProps": {
+        "course_name": "Microprocessors",
+        "faculty": "Maanas Wadhwa",
+        "room": "LH-04",
+        "type": "theory",
+        "batch_ids": "738c3707-e7d6-4357-a068-e8eb8508d28f,a7ec8425-51ef-4e37-af92-fa9c229a30cc"
+      }
+    },
+    {
+      "id": "b8ecfff0-2eca-4038-9ebe-d7255fb04c50",
+      "title": "EE304 - LH-05",
+      "start": "2024-09-17T11:00:00",
+      "end": "2024-09-17T12:00:00",
+      "extendedProps": {
+        "course_name": "Signal Processing",
+        "faculty": "Waida Narasimhan",
+        "room": "LH-05",
+        "type": "theory",
+        "batch_ids": "738c3707-e7d6-4357-a068-e8eb8508d28f,a7ec8425-51ef-4e37-af92-fa9c229a30cc"
+      }
+    },
+    {
+      "id": "bab7f6ad-fd3e-4b86-8968-abcc612aae47",
+      "title": "EE304 - LH-01",
+      "start": "2024-09-18T08:00:00",
+      "end": "2024-09-18T09:00:00",
+      "extendedProps": {
+        "course_name": "Signal Processing",
+        "faculty": "Waida Narasimhan",
+        "room": "LH-01",
+        "type": "theory",
+        "batch_ids": "738c3707-e7d6-4357-a068-e8eb8508d28f,a7ec8425-51ef-4e37-af92-fa9c229a30cc"
+      }
+    },
+    {
+      "id": "3805d95e-4992-48f3-98d9-a3873def840f",
+      "title": "EE301L - EE-LAB-3",
+      "start": "2024-09-18T16:00:00",
+      "end": "2024-09-18T17:00:00",
+      "extendedProps": {
+        "course_name": "Power Systems Lab",
+        "faculty": "Oliver Lalla",
+        "room": "EE-LAB-3",
+        "type": "lab",
+        "batch_ids": "738c3707-e7d6-4357-a068-e8eb8508d28f,a7ec8425-51ef-4e37-af92-fa9c229a30cc"
+      }
+    },
+    {
+      "id": "52849ed6-bdcd-4f8b-a821-84df9f652730",
+      "title": "EE301L - EE-LAB-2",
+      "start": "2024-09-21T16:00:00",
+      "end": "2024-09-21T17:00:00",
+      "extendedProps": {
+        "course_name": "Power Systems Lab",
+        "faculty": "Oliver Lalla",
+        "room": "EE-LAB-2",
+        "type": "lab",
+        "batch_ids": "738c3707-e7d6-4357-a068-e8eb8508d28f,a7ec8425-51ef-4e37-af92-fa9c229a30cc"
+      }
+    },
+    {
+      "id": "eb38b282-f8d3-4fe1-8f5a-856528519582",
+      "title": "EE303L - EE-LAB-1",
+      "start": "2024-09-20T08:00:00",
+      "end": "2024-09-20T09:00:00",
+      "extendedProps": {
+        "course_name": "Microprocessor Lab",
+        "faculty": "Frado Nori",
+        "room": "EE-LAB-1",
+        "type": "lab",
+        "batch_ids": "738c3707-e7d6-4357-a068-e8eb8508d28f,a7ec8425-51ef-4e37-af92-fa9c229a30cc"
+      }
+    },
+    {
+      "id": "792f5e3c-d459-4475-8301-1d66a9655347",
+      "title": "EE303L - EE-LAB-2",
+      "start": "2024-09-19T10:00:00",
+      "end": "2024-09-19T11:00:00",
+      "extendedProps": {
+        "course_name": "Microprocessor Lab",
+        "faculty": "Frado Nori",
+        "room": "EE-LAB-2",
+        "type": "lab",
+        "batch_ids": "738c3707-e7d6-4357-a068-e8eb8508d28f,a7ec8425-51ef-4e37-af92-fa9c229a30cc"
+      }
+    },
+    {
+      "id": "08e507b2-4a27-47f9-a3d1-711c057d838c",
+      "title": "CS401 - LH-04",
+      "start": "2024-09-21T14:00:00",
+      "end": "2024-09-21T15:00:00",
+      "extendedProps": {
+        "course_name": "Machine Learning",
+        "faculty": "Jagat Gopal",
+        "room": "LH-04",
+        "type": "theory",
+        "batch_ids": "748ccfa3-0427-4694-b09a-1212ab533d1f"
+      }
+    },
+    {
+      "id": "5f778572-ca0b-45ac-87ed-3c1584a9354a",
+      "title": "CS401 - LH-04",
+      "start": "2024-09-18T08:00:00",
+      "end": "2024-09-18T09:00:00",
+      "extendedProps": {
+        "course_name": "Machine Learning",
+        "faculty": "Jagat Gopal",
+        "room": "LH-04",
+        "type": "theory",
+        "batch_ids": "748ccfa3-0427-4694-b09a-1212ab533d1f"
+      }
+    },
+    {
+      "id": "719a23a5-0055-45e3-b710-496aee8a82f4",
+      "title": "CS402 - LH-03",
+      "start": "2024-09-18T17:00:00",
+      "end": "2024-09-18T18:00:00",
+      "extendedProps": {
+        "course_name": "Cyber Security",
+        "faculty": "Rohan Tata",
+        "room": "LH-03",
+        "type": "theory",
+        "batch_ids": "748ccfa3-0427-4694-b09a-1212ab533d1f"
+      }
+    },
+    {
+      "id": "33a40bf9-e874-4e87-8ccb-ac6e6e07c000",
+      "title": "CS402 - LH-05",
+      "start": "2024-09-16T15:00:00",
+      "end": "2024-09-16T16:00:00",
+      "extendedProps": {
+        "course_name": "Cyber Security",
+        "faculty": "Rohan Tata",
+        "room": "LH-05",
+        "type": "theory",
+        "batch_ids": "748ccfa3-0427-4694-b09a-1212ab533d1f"
+      }
+    },
+    {
+      "id": "2b4cf70a-7519-4e19-b7ac-b54d36dda817",
+      "title": "CS403 - LH-02",
+      "start": "2024-09-20T09:00:00",
+      "end": "2024-09-20T10:00:00",
+      "extendedProps": {
+        "course_name": "Project Work",
+        "faculty": "Madhavi Kashyap",
+        "room": "LH-02",
+        "type": "theory",
+        "batch_ids": "748ccfa3-0427-4694-b09a-1212ab533d1f"
+      }
+    },
+    {
+      "id": "ab6e564f-4dc1-439e-8eff-58fdbee76a2e",
+      "title": "CS403 - LH-05",
+      "start": "2024-09-20T15:00:00",
+      "end": "2024-09-20T16:00:00",
+      "extendedProps": {
+        "course_name": "Project Work",
+        "faculty": "Madhavi Kashyap",
+        "room": "LH-05",
+        "type": "theory",
+        "batch_ids": "748ccfa3-0427-4694-b09a-1212ab533d1f"
+      }
+    },
+    {
+      "id": "e77d4dc1-47bc-4038-984e-5c504307633a",
+      "title": "CS403 - LH-04",
+      "start": "2024-09-17T14:00:00",
+      "end": "2024-09-17T15:00:00",
+      "extendedProps": {
+        "course_name": "Project Work",
+        "faculty": "Madhavi Kashyap",
+        "room": "LH-04",
+        "type": "theory",
+        "batch_ids": "748ccfa3-0427-4694-b09a-1212ab533d1f"
+      }
+    },
+    {
+      "id": "ca9a6a4f-5441-4423-91fd-f5575986e18f",
+      "title": "MECH401 - LH-02",
+      "start": "2024-09-20T16:00:00",
+      "end": "2024-09-20T17:00:00",
+      "extendedProps": {
+        "course_name": "Renewable Energy",
+        "faculty": "Jalsa Pant",
+        "room": "LH-02",
+        "type": "theory",
+        "batch_ids": "27bcb7b3-654d-4791-8a69-b949c9e2b04d"
+      }
+    },
+    {
+      "id": "737da548-fe0a-4c75-89a1-a7c70d4c4b92",
+      "title": "MECH401 - LH-02",
+      "start": "2024-09-20T17:00:00",
+      "end": "2024-09-20T18:00:00",
+      "extendedProps": {
+        "course_name": "Renewable Energy",
+        "faculty": "Jalsa Pant",
+        "room": "LH-02",
+        "type": "theory",
+        "batch_ids": "27bcb7b3-654d-4791-8a69-b949c9e2b04d"
+      }
+    },
+    {
+      "id": "22bd6cf9-7637-4dd9-830c-8d0758d0e96b",
+      "title": "MECH402 - LH-05",
+      "start": "2024-09-19T13:00:00",
+      "end": "2024-09-19T14:00:00",
+      "extendedProps": {
+        "course_name": "Automation & Robotics",
+        "faculty": "Watika Roy",
+        "room": "LH-05",
+        "type": "theory",
+        "batch_ids": "27bcb7b3-654d-4791-8a69-b949c9e2b04d"
+      }
+    },
+    {
+      "id": "c35f8b1b-6e54-4cb5-8dbe-8c29eeeb6f0b",
+      "title": "MECH402 - LH-05",
+      "start": "2024-09-18T17:00:00",
+      "end": "2024-09-18T18:00:00",
+      "extendedProps": {
+        "course_name": "Automation & Robotics",
+        "faculty": "Watika Roy",
+        "room": "LH-05",
+        "type": "theory",
+        "batch_ids": "27bcb7b3-654d-4791-8a69-b949c9e2b04d"
+      }
+    },
+    {
+      "id": "493141a6-9180-4030-b181-269bbdfca756",
+      "title": "MECH403 - LH-04",
+      "start": "2024-09-20T13:00:00",
+      "end": "2024-09-20T14:00:00",
+      "extendedProps": {
+        "course_name": "Project Work",
+        "faculty": "Baghyawati Chadha",
+        "room": "LH-04",
+        "type": "theory",
+        "batch_ids": "27bcb7b3-654d-4791-8a69-b949c9e2b04d"
+      }
+    },
+    {
+      "id": "f6793a87-fb73-4fba-8c11-1b25d6b857e5",
+      "title": "MECH403 - LH-03",
+      "start": "2024-09-16T14:00:00",
+      "end": "2024-09-16T15:00:00",
+      "extendedProps": {
+        "course_name": "Project Work",
+        "faculty": "Baghyawati Chadha",
+        "room": "LH-03",
+        "type": "theory",
+        "batch_ids": "27bcb7b3-654d-4791-8a69-b949c9e2b04d"
+      }
+    },
+    {
+      "id": "10506305-9816-4ddb-94fa-7e958330e575",
+      "title": "MECH403 - LH-05",
+      "start": "2024-09-21T08:00:00",
+      "end": "2024-09-21T09:00:00",
+      "extendedProps": {
+        "course_name": "Project Work",
+        "faculty": "Baghyawati Chadha",
+        "room": "LH-05",
+        "type": "theory",
+        "batch_ids": "27bcb7b3-654d-4791-8a69-b949c9e2b04d"
+      }
+    },
+    {
+      "id": "dd4c83f9-b114-405f-99e3-5982049fed70",
+      "title": "EE401 - LH-06",
+      "start": "2024-09-19T13:00:00",
+      "end": "2024-09-19T14:00:00",
+      "extendedProps": {
+        "course_name": "Smart Grid Technology",
+        "faculty": "Qabil Doctor",
+        "room": "LH-06",
+        "type": "theory",
+        "batch_ids": "f1443fd3-2d55-4189-8c46-67f6c0832497"
+      }
+    },
+    {
+      "id": "4e9573f4-4b95-4a39-ae79-fa6b261f3ca4",
+      "title": "EE401 - LH-06",
+      "start": "2024-09-20T11:00:00",
+      "end": "2024-09-20T12:00:00",
+      "extendedProps": {
+        "course_name": "Smart Grid Technology",
+        "faculty": "Qabil Doctor",
+        "room": "LH-06",
+        "type": "theory",
+        "batch_ids": "f1443fd3-2d55-4189-8c46-67f6c0832497"
+      }
+    },
+    {
+      "id": "6c3049e9-bf38-4a40-a4f5-4ab44c1a3fb5",
+      "title": "EE402 - LH-02",
+      "start": "2024-09-16T16:00:00",
+      "end": "2024-09-16T17:00:00",
+      "extendedProps": {
+        "course_name": "VLSI Design",
+        "faculty": "Balendra Mander",
+        "room": "LH-02",
+        "type": "theory",
+        "batch_ids": "f1443fd3-2d55-4189-8c46-67f6c0832497"
+      }
+    },
+    {
+      "id": "88ec4998-36d0-4e3b-ba11-5715aa35945d",
+      "title": "EE402 - LH-02",
+      "start": "2024-09-20T15:00:00",
+      "end": "2024-09-20T16:00:00",
+      "extendedProps": {
+        "course_name": "VLSI Design",
+        "faculty": "Balendra Mander",
+        "room": "LH-02",
+        "type": "theory",
+        "batch_ids": "f1443fd3-2d55-4189-8c46-67f6c0832497"
+      }
+    },
+    {
+      "id": "dddc9c0e-316b-4869-88c5-b6716ea0baa7",
+      "title": "EE403 - LH-01",
+      "start": "2024-09-21T11:00:00",
+      "end": "2024-09-21T12:00:00",
+      "extendedProps": {
+        "course_name": "Project Work",
+        "faculty": "Oliver Lalla",
+        "room": "LH-01",
+        "type": "theory",
+        "batch_ids": "f1443fd3-2d55-4189-8c46-67f6c0832497"
+      }
+    },
+    {
+      "id": "15aa3036-2b6d-4155-bd9c-5736a24d120c",
+      "title": "EE403 - LH-04",
+      "start": "2024-09-19T10:00:00",
+      "end": "2024-09-19T11:00:00",
+      "extendedProps": {
+        "course_name": "Project Work",
+        "faculty": "Oliver Lalla",
+        "room": "LH-04",
+        "type": "theory",
+        "batch_ids": "f1443fd3-2d55-4189-8c46-67f6c0832497"
+      }
+    },
+    {
+      "id": "65461540-1834-45cc-b2df-c9f5a00d92fa",
+      "title": "EE403 - LH-06",
+      "start": "2024-09-20T16:00:00",
+      "end": "2024-09-20T17:00:00",
+      "extendedProps": {
+        "course_name": "Project Work",
+        "faculty": "Oliver Lalla",
+        "room": "LH-06",
+        "type": "theory",
+        "batch_ids": "f1443fd3-2d55-4189-8c46-67f6c0832497"
+      }
+    }
+  ]
+}

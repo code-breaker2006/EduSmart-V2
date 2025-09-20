@@ -1,0 +1,36 @@
+id,faculty_id,first_name,last_name,email,department,designation,teaching_capacity_per_week,available_slots,phone,specialization
+d045dd5e-b0f6-4f92-b513-78d9f25f09d1,CSE001,Jagat,Gopal,cse.faculty1@bitc.edu.in,CSE,Professor,19,"morning,afternoon",01986781046,AI/ML
+25aa53d1-6735-455f-99de-e888499ffe49,CSE002,Nimrat,Natarajan,cse.faculty2@bitc.edu.in,CSE,Assistant Professor,19,"morning,afternoon",1391795830,Computer Networks
+27223919-f26f-4439-a5e9-a445c82fdd6e,CSE003,Ekapad,Shetty,cse.faculty3@bitc.edu.in,CSE,Professor,18,"morning,afternoon",2730533372,Software Engineering
+1392216c-bef2-49fa-9175-615854342568,CSE004,Darika,Varkey,cse.faculty4@bitc.edu.in,CSE,Professor,14,"morning,afternoon",+914077494115,AI/ML
+bced22bf-ba4e-4125-a428-243d3377d88c,CSE005,Anya,Biswas,cse.faculty5@bitc.edu.in,CSE,Professor,15,"morning,afternoon",8036816784,Computer Networks
+cb5392df-e15c-4b61-92a2-eb6f5efe7b93,CSE006,Nikita,Golla,cse.faculty6@bitc.edu.in,CSE,Assistant Professor,14,"morning,afternoon",02410313778,Computer Networks
+3c63ea82-3a06-4f68-ac5b-95afc72786e6,CSE007,Kalpit,Ahluwalia,cse.faculty7@bitc.edu.in,CSE,Professor,19,"morning,afternoon",2737604063,Computer Networks
+a6fa8766-955d-4bb0-b669-04cf40d424dc,CSE008,Kashish,Golla,cse.faculty8@bitc.edu.in,CSE,Associate Professor,15,"morning,afternoon",+918406560273,Software Engineering
+4898a3da-3b9e-4cae-ad5b-d6b6ae7fa380,CSE009,Rohan,Tata,cse.faculty9@bitc.edu.in,CSE,Assistant Professor,16,"morning,afternoon",01205397604,AI/ML
+785491e8-9246-4184-a991-78947616942c,CSE010,Madhavi,Kashyap,cse.faculty10@bitc.edu.in,CSE,Professor,19,"morning,afternoon",5132240592,Software Engineering
+c9da8a78-1fc7-4449-8856-fafab1d1cd4d,MECH001,Yashasvi,Handa,mech.faculty1@bitc.edu.in,ME,Associate Professor,16,"morning,afternoon",0123141577,Manufacturing
+fb4e4162-5ad8-4461-82f4-06e860eb9730,MECH002,Darsh,Babu,mech.faculty2@bitc.edu.in,ME,Professor,20,"morning,afternoon",1271568380,Design
+26fff510-1194-4611-b470-6987c2218c97,MECH003,Watika,Roy,mech.faculty3@bitc.edu.in,ME,Professor,14,"morning,afternoon",+919580122386,Robotics
+855660a6-d571-48d3-b244-7df0c797746b,MECH004,Jalsa,Pant,mech.faculty4@bitc.edu.in,ME,Professor,16,"morning,afternoon",+910993299432,Design
+96024789-4deb-479c-beae-84fcd5d6e771,MECH005,Baghyawati,Chadha,mech.faculty5@bitc.edu.in,ME,Assistant Professor,16,"morning,afternoon",+916883065277,Thermal Engineering
+138a3224-b8f5-4bfa-88a7-6604dd237cfd,MECH006,Adweta,Sandhu,mech.faculty6@bitc.edu.in,ME,Assistant Professor,17,"morning,afternoon",9141237266,Materials
+17f4499d-b39b-4bb7-add7-b289e2cf0eb7,MECH007,Patrick,Choudhary,mech.faculty7@bitc.edu.in,ME,Professor,17,"morning,afternoon",00548399705,Thermal Engineering
+50374df3-e305-41dd-917c-b0924564ef93,MECH008,Netra,Ray,mech.faculty8@bitc.edu.in,ME,Assistant Professor,16,"morning,afternoon",09583195893,Materials
+31bc6ee7-886f-4c46-800a-b92a25e430e8,MECH009,Ira,Buch,mech.faculty9@bitc.edu.in,ME,Associate Professor,18,"morning,afternoon",00213862532,Manufacturing
+f5d822d6-b5e4-477a-97d6-6d8064dd1646,MECH010,Sanya,Varkey,mech.faculty10@bitc.edu.in,ME,Assistant Professor,14,"morning,afternoon",+910039639255,Thermal Engineering
+8e55479e-71f3-4ebb-8d8c-894d3214e9ea,EE001,Balendra,Mander,ee.faculty1@bitc.edu.in,EE,Assistant Professor,15,"morning,afternoon",06149287646,Control Systems
+c92ea542-a7ff-4fd3-a8c4-e7d9a7d5c714,EE002,Maanas,Wadhwa,ee.faculty2@bitc.edu.in,EE,Professor,20,"morning,afternoon",+916358212351,Electronics
+a196c47b-bc76-42be-971e-ff75d8def941,EE003,Thomas,Saraf,ee.faculty3@bitc.edu.in,EE,Professor,17,"morning,afternoon",8298291683,Control Systems
+c50a5b2a-cc4b-4559-94fe-2abb5a4bbb50,EE004,Rishi,Madan,ee.faculty4@bitc.edu.in,EE,Associate Professor,19,"morning,afternoon",8446058474,Control Systems
+6828322e-3d41-4c47-b16d-6b293d0e0d0f,EE005,Anvi,Sharma,ee.faculty5@bitc.edu.in,EE,Professor,16,"morning,afternoon",01592763911,Control Systems
+2a4ac976-3c9a-43b9-9277-26b6216ce655,EE006,Urvashi,Ray,ee.faculty6@bitc.edu.in,EE,Professor,19,"morning,afternoon",08057226442,Control Systems
+e72fb91f-332f-414f-b2ea-8de62c5f8637,EE007,Qabil,Doctor,ee.faculty7@bitc.edu.in,EE,Assistant Professor,19,"morning,afternoon",2706252468,Power Systems
+6a4aec24-1481-4fb9-91a9-ecc124727b0b,EE008,Waida,Narasimhan,ee.faculty8@bitc.edu.in,EE,Assistant Professor,19,"morning,afternoon",0515409136,Electronics
+813d330d-d2b5-485e-bf9c-07445b084c00,EE009,Frado,Nori,ee.faculty9@bitc.edu.in,EE,Assistant Professor,19,"morning,afternoon",8308639918,Electronics
+a3adbf53-c62c-4321-9da2-e211f07195ed,EE010,Oliver,Lalla,ee.faculty10@bitc.edu.in,EE,Professor,17,"morning,afternoon",00107808876,Communications
+8ca5e041-81af-4e01-9d56-765b71bb0fc4,COMM001,Ojas,Ahuja,common.faculty1@bitc.edu.in,Common,Associate Professor,21,"morning,afternoon",07130914393,Mathematics
+4ad4ccc4-9ef5-4cfb-947a-e9cc2fa27ad0,COMM002,Ria,Ramachandran,common.faculty2@bitc.edu.in,Common,Assistant Professor,20,"morning,afternoon",0449481444,Physics
+0c23e817-cac7-432a-9a23-3c9fec2864c6,COMM003,Pavani,Guha,common.faculty3@bitc.edu.in,Common,Professor,21,"morning,afternoon",06671922900,Chemistry
+e006ef65-9189-4bc5-8f43-3a9a9dd98190,COMM004,Ria,Memon,common.faculty4@bitc.edu.in,Common,Associate Professor,22,"morning,afternoon",2298541818,English
+0c8b2837-d61d-4d6b-9aac-f754e02606a5,COMM005,Lekha,Oak,common.faculty5@bitc.edu.in,Common,Professor,17,"morning,afternoon",03246071207,General

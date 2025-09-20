@@ -1,0 +1,54 @@
+{
+  "faculty_id": "d045dd5e-b0f6-4f92-b513-78d9f25f09d1",
+  "faculty_name": "Prof. Jagat Gopal",
+  "events": [
+    {
+      "id": "f152ec07-7601-4643-a1fe-8de9fe2dae90",
+      "title": "CS201L",
+      "start": "2024-09-18T14:00:00",
+      "end": "2024-09-18T15:00:00",
+      "extendedProps": {
+        "course_name": "Data Structures Lab",
+        "room": "CSE-LAB-1",
+        "type": "lab",
+        "batch_ids": "8fe958eb-8377-4fd7-ac0e-65ab86352d4d,64fcba0c-ae35-4631-ae89-ddbb61123d55"
+      }
+    },
+    {
+      "id": "d941a4d4-d326-4e47-8fbe-3fd5ff8126d0",
+      "title": "CS201L",
+      "start": "2024-09-16T14:00:00",
+      "end": "2024-09-16T15:00:00",
+      "extendedProps": {
+        "course_name": "Data Structures Lab",
+        "room": "CSE-LAB-3",
+        "type": "lab",
+        "batch_ids": "8fe958eb-8377-4fd7-ac0e-65ab86352d4d,64fcba0c-ae35-4631-ae89-ddbb61123d55"
+      }
+    },
+    {
+      "id": "08e507b2-4a27-47f9-a3d1-711c057d838c",
+      "title": "CS401",
+      "start": "2024-09-21T14:00:00",
+      "end": "2024-09-21T15:00:00",
+      "extendedProps": {
+        "course_name": "Machine Learning",
+        "room": "LH-04",
+        "type": "theory",
+        "batch_ids": "748ccfa3-0427-4694-b09a-1212ab533d1f"
+      }
+    },
+    {
+      "id": "5f778572-ca0b-45ac-87ed-3c1584a9354a",
+      "title": "CS401",
+      "start": "2024-09-18T08:00:00",
+      "end": "2024-09-18T09:00:00",
+      "extendedProps": {
+        "course_name": "Machine Learning",
+        "room": "LH-04",
+        "type": "theory",
+        "batch_ids": "748ccfa3-0427-4694-b09a-1212ab533d1f"
+      }
+    }
+  ]
+}

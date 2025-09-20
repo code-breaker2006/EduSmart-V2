@@ -1,0 +1,54 @@
+id,course_code,course_name,branch,year,credits,is_lab,weekly_slots,expected_enrollment
+bbefba6f-a13e-4f19-9b23-67c75ac687f3,MATH101,Engineering Mathematics I,Common,1,4,False,3,50
+0d5d4f29-eb37-4790-a415-90578c6ae8e0,PHY101,Engineering Physics,Common,1,4,False,3,50
+3144d5f3-36e6-4385-bb87-e3cd1f4c51a7,CHEM101,Engineering Chemistry,Common,1,3,False,2,50
+a7887873-39a5-4288-bae6-349e9d25d596,ENG101,Technical English,Common,1,2,False,2,50
+35a6fb08-d06d-4d72-929f-603605ad0a04,CS101,Programming Fundamentals,Common,1,3,False,2,50
+b20e386c-6e86-4736-9f78-01b8c0d32901,PHY101L,Physics Lab,Common,1,1,True,2,50
+fe5c7118-b600-4fe7-af39-6d88e82c6ff5,CHEM101L,Chemistry Lab,Common,1,1,True,2,50
+9c686095-d2fd-4028-b8f2-82ecbe930630,CS101L,Programming Lab,Common,1,2,True,2,50
+1305b350-9439-4b02-a606-50bd6806bc03,CS201,Data Structures,CSE,2,4,False,3,30
+aaeddd56-330d-4c56-90a6-1d6b9db8519f,CS202,Computer Organization,CSE,2,3,False,2,30
+92af6b68-32f8-425c-9597-b4ee0394714c,CS203,Discrete Mathematics,CSE,2,3,False,2,30
+22c62f7c-4a5e-4de6-9363-a1365e5249f0,MATH201,Probability & Statistics,CSE,2,3,False,2,30
+49ac3e65-cec9-4bbc-b132-57b4bf86afb1,CS201L,Data Structures Lab,CSE,2,2,True,2,30
+2b665856-ce4b-4af5-bdc4-c1478e4485b6,CS202L,Computer Organization Lab,CSE,2,1,True,2,30
+970c9376-f1e2-45f4-ba24-4bf06a54573b,MECH201,Engineering Mechanics,ME,2,4,False,3,30
+9285a734-6dff-4da5-a494-9ab2894161ed,MECH202,Strength of Materials,ME,2,4,False,3,30
+18c6b762-04f8-4910-b60a-e7f949b65ee9,MECH203,Thermodynamics,ME,2,3,False,2,30
+c28ce28d-ea17-4b9c-98c7-6842a81c2515,MECH204,Engineering Drawing,ME,2,2,False,2,30
+8ad61494-ba9f-496f-9d0d-ac13cf8768eb,MECH201L,Mechanics Lab,ME,2,1,True,2,30
+a829f4b0-42cc-4c49-9db1-7d4153968a6e,MECH203L,Thermal Lab,ME,2,2,True,2,30
+77f9f140-b2c9-46c6-9e37-e344dac1ab00,EE201,Circuit Analysis,EE,2,4,False,3,30
+9fd0aaf5-5256-442e-a88d-b40949e753a3,EE202,Electronic Devices,EE,2,3,False,2,30
+acad893f-fcdb-4c45-8e3b-3e474c1bce2e,EE203,Electromagnetic Theory,EE,2,3,False,2,30
+89f817c0-208d-4f84-a49b-b4211689b861,EE204,Digital Logic Design,EE,2,3,False,2,30
+45217d11-665c-4f78-8b01-a818507d8dc0,EE201L,Circuit Analysis Lab,EE,2,2,True,2,30
+37aa065e-5cac-49d5-b9f9-bb31cae5fd08,EE202L,Electronics Lab,EE,2,1,True,2,30
+e46651dd-65ed-4cdc-9565-002ae8640adf,CS301,Database Management,CSE,3,4,False,3,30
+6476de36-d7b0-4b4f-935d-00aae9f4b7d4,CS302,Computer Networks,CSE,3,3,False,2,30
+c9e56282-ecac-4d30-be81-09a270e15756,CS303,Operating Systems,CSE,3,4,False,3,30
+1ae9d265-fe04-4a0a-bf81-0247fb625d5d,CS304,Software Engineering,CSE,3,3,False,2,30
+832154ee-fb50-4271-a816-fea952614b84,CS301L,Database Lab,CSE,3,2,True,2,30
+287c1e5c-8929-4044-81c2-22c4b85dcc72,CS303L,OS Lab,CSE,3,1,True,2,30
+cbb47195-b2e0-4ed8-98de-16e41962950a,MECH301,Machine Design,ME,3,4,False,3,30
+13b7643b-05db-4394-ba90-5a5444d01e6d,MECH302,Heat Transfer,ME,3,3,False,2,30
+0abcf5b3-297b-4e5f-9425-100283b5983f,MECH303,Manufacturing Processes,ME,3,4,False,3,30
+abcdceca-6fa9-41c8-8313-ae4e04f0b010,MECH304,Fluid Mechanics,ME,3,3,False,2,30
+c3a2ea15-7b7a-4bea-bd3f-b5ab604f1d8d,MECH301L,Design Lab,ME,3,2,True,2,30
+21e9ce33-6fb8-4813-8f9e-61686446766b,MECH303L,Manufacturing Lab,ME,3,2,True,2,30
+2bdd0411-1bd6-4aad-8208-cb7fbceb4d49,EE301,Power Systems,EE,3,4,False,3,30
+989a02bd-0a47-4bb9-a4ba-0ea735a59e04,EE302,Control Systems,EE,3,3,False,2,30
+2788d075-cfb3-4d24-becd-7948592f04d4,EE303,Microprocessors,EE,3,4,False,3,30
+143be7f9-59e2-41a1-a592-53ae63ac157f,EE304,Signal Processing,EE,3,3,False,2,30
+696a5162-f00a-4df7-afb5-380dec3dce9b,EE301L,Power Systems Lab,EE,3,1,True,2,30
+fb8f53dc-c34c-4cba-8933-a9dec6609aab,EE303L,Microprocessor Lab,EE,3,2,True,2,30
+bb925c34-4707-4fc5-9eb9-71d74c0a04a4,CS401,Machine Learning,CSE,4,3,False,2,30
+cea91802-ac83-42ce-8e4d-140db6b66af4,CS402,Cyber Security,CSE,4,3,False,2,30
+2b4f8980-8896-4e03-b2b5-cca0d597c196,CS403,Project Work,CSE,4,4,False,3,30
+97391a22-9f27-4000-8449-30e036f87fe3,MECH401,Renewable Energy,ME,4,3,False,2,30
+ed97d749-e8a2-4c20-a008-9e910f138abd,MECH402,Automation & Robotics,ME,4,3,False,2,30
+1b64c335-c6cd-43e3-85fd-da590cd2f7a1,MECH403,Project Work,ME,4,4,False,3,30
+f1b5ca41-0845-496b-b249-c5b5da9cbee5,EE401,Smart Grid Technology,EE,4,3,False,2,30
+26a72315-ab25-4c06-a824-86422046a902,EE402,VLSI Design,EE,4,3,False,2,30
+1d3aeb4c-fd67-482c-807e-8ed37e532037,EE403,Project Work,EE,4,4,False,3,30

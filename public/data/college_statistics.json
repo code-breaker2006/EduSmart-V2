@@ -1,0 +1,19 @@
+{
+  "total_students": 150,
+  "total_faculty": 35,
+  "total_courses": 53,
+  "total_rooms": 15,
+  "total_scheduled_sessions": 121,
+  "students_by_branch": {
+    "CSE": 55,
+    "ME": 50,
+    "EE": 45
+  },
+  "faculty_by_department": {
+    "CSE": 10,
+    "ME": 10,
+    "EE": 10,
+    "Common": 5
+  },
+  "room_utilization": "14.9%"
+}
