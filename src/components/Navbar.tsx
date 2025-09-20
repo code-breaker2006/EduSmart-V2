@@ -22,10 +22,8 @@ export default function Navbar() {
         { label: 'My Schedule', view: 'timetable' as const, icon: '📅' }
       ]
     } else {
-      return [
-        ...baseItems,
-        { label: 'My Timetable', view: 'timetable' as const, icon: '📅' }
-      ]
+      // Students only see Dashboard (which now includes their integrated timetable)
+      return baseItems
     }
   }
 
